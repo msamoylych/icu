@@ -90,7 +90,7 @@ ru{
             "0: =%spellout-cardinal-masculine=;",
             "%spellout-cardinal-masculine:",
             "-x: \u043C\u0438\u043D\u0443\u0441 >>;",
-            "x.x: [<%spellout-cardinal-feminine< $(cardinal,one{\u0446\u0435\u043B\u044B\u0439}other{\u0446\u0435\u043B\u044B\u0445})$ ]>%%fractions-feminine>;",
+            "x.x: [<%spellout-cardinal-feminine< $(cardinal,one{\u0446\u0435\u043B\u0430\u044F}other{\u0446\u0435\u043B\u044B\u0445})$ ]>%%fractions-feminine>;",
             "0: \u043D\u043E\u043B\u044C;",
             "1: \u043E\u0434\u0438\u043D;",
             "2: \u0434\u0432\u0430;",
